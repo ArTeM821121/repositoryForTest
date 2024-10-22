@@ -5,6 +5,5 @@ for _ in range (b):
     print ("Это даже работает")
 
 print ("Измененный файл для продолжении ветки")
-
 # Add changes to main 
 # Add changes in testing
