@@ -1,6 +1,8 @@
 print("hello world")
 print("i have done git with Github")
 
+b = 10
+
 for _ in range (b):
     print ("Это даже работает")
 
